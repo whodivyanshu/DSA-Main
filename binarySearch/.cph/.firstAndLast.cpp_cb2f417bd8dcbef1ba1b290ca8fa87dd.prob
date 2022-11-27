@@ -1,0 +1,1 @@
+{"name":"Local: firstAndLast","url":"d:\\DSA Main\\binarySearch\\firstAndLast.cpp","tests":[{"id":1669556819914,"input":"5\n1 2 3 3 5\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA Main\\binarySearch\\firstAndLast.cpp","group":"local","local":true}
