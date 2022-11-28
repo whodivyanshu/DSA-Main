@@ -25,7 +25,7 @@ int search(int n, int arr[],int key){
 
 }
 int findPosi(int n, int arr, int k){
-    int pivott = pivot(n, arr);
+    int pivott = pivot(n, &arr);
 
 }
 
