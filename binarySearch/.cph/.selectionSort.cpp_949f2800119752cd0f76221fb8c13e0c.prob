@@ -1,0 +1,1 @@
+{"name":"Local: selectionSort","url":"d:\\DSA Main\\binarySearch\\selectionSort.cpp","tests":[{"id":1670152566701,"input":"5\n5 2 9 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA Main\\binarySearch\\selectionSort.cpp","group":"local","local":true}
